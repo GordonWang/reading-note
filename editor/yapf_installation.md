@@ -55,6 +55,7 @@ cp PyYapf.sublime-package ~/Library/Application Support/Sublime Text 3/Installed
 }
 ```
 
+在sublime中，可以使用Command Palette,调用yapf来format文件。
 
 ### Vim
 
